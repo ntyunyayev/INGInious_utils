@@ -26,7 +26,7 @@ def main():
         yaml_file_path = f"{args.course_folder}/{task}/task.yaml"
         with open(yaml_file_path) as f:
             lines = f.readlines()
-            if "true" in lines[0]:
+            if "false" not in lines[0]:
                 lines[0] = f"accessible: {args.new_deadline}\n"
                 with open(yaml_file_path, "w") as f:
                     f.writelines(lines)
