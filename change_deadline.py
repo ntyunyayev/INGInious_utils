@@ -1,7 +1,6 @@
 import argparse
 import yaml
 
-
 def main():
     parser = argparse.ArgumentParser(
         description="Change the deadline of a series of exercice.")
