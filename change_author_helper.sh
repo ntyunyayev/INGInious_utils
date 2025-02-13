@@ -1,0 +1,8 @@
+AUTHORS="Nikita Tyunyayev, Aurélien Buchet"
+# python3 change_deadline.py --course_folder $1 --exercises_id "assembleur" --author "$AUTHORS"
+python3 change_deadline.py --course_folder $1 --exercises_id "s2" --author "$AUTHORS"
+python3 change_deadline.py --course_folder $1 --exercises_id "s3_assembleur_tableaux_chanes_de_charactres" --author "$AUTHORS"
+python3 change_deadline.py --course_folder $1 --exercises_id "s4_assembleur_fonctions_procdures" --author "$AUTHORS"
+python3 change_deadline.py --course_folder $1 --exercises_id "s5" --author "$AUTHORS"
+python3 change_deadline.py --course_folder $1 --exercises_id "tp_6_circuits_logiques_introduction" --author "$AUTHORS"
+python3 change_deadline.py --course_folder $1 --exercises_id "semaine_7_" --author "$AUTHORS"
