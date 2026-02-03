@@ -1,8 +1,0 @@
-SUBMISSIONS_LIMIT="5,1"
-python3 update_series.py --course_folder $1 --exercises_id "assembleur" --submissions_limit "$SUBMISSIONS_LIMIT"
-python3 update_series.py --course_folder $1 --exercises_id "s2" --submissions_limit "$SUBMISSIONS_LIMIT"
-python3 update_series.py --course_folder $1 --exercises_id "s3_assembleur_tableaux_chanes_de_charactres" --submissions_limit "$SUBMISSIONS_LIMIT"
-python3 update_series.py --course_folder $1 --exercises_id "s4_assembleur_fonctions_procdures" --submissions_limit "$SUBMISSIONS_LIMIT"
-python3 update_series.py --course_folder $1 --exercises_id "s5" --submissions_limit "$SUBMISSIONS_LIMIT"
-python3 update_series.py --course_folder $1 --exercises_id "tp_6_circuits_logiques_introduction" --submissions_limit "$SUBMISSIONS_LIMIT"
-python3 update_series.py --course_folder $1 --exercises_id "semaine_7_" --submissions_limit "$SUBMISSIONS_LIMIT"
