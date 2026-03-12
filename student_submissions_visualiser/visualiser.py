@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import matplotlib.ticker as ticker
 import numpy as np
 
-DEFAULT_CSV = "../export.csv"
+DEFAULT_CSV = "export.csv"
 DEFAULT_COURSE = "../course.yaml"
 OUTPUT_PDF = "submissions_overview.pdf"
 
