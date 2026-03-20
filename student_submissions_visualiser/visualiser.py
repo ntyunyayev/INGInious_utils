@@ -18,11 +18,12 @@ C_SUCCESSES = "#6ab87a"
 
 
 INCLUDED_SECTIONS = {
-    "S1 - Introduction Assembleur",
-    "S2 - Assembleur: Conditions & Boucles",
-    "S3 - Assembleur: Tableaux & Chaînes de charactères",
-    "S4 - Assembleur: Fonctions & Procédures",
-    "S5 - Assembleur: Fonctions avancées",
+    "Semaine 1 - Introduction Assembleur",
+    "Semaine 2 - Assembleur: Conditions & Boucles",
+    "Semaine 3 - Assembleur: Tableaux & Chaînes de charactères",
+    "Semaine 4 - Assembleur: Fonctions & Procédures",
+    "Semaine 5 - Assembleur: Fonctions avancées",
+    "Semaine 6 - Buffer Overflow",
 }
 
 
